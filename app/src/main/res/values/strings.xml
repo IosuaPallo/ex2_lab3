@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex2_lab3</string>
+    <string name="write_a_text">write a text</string>
+    <string name="text">text</string>
+    <string name="confirm">Confirm</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
